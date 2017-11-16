@@ -11,7 +11,7 @@ public class ResourceManager {
 	}
 
 	/**
-	 * Change relatice path into URL to use in JAR File
+	 * Change relative path into URL to use in JAR File
 	 * @param Relative path
 	 * @return URL
 	 */
